@@ -1,4 +1,4 @@
-package anonymousClass;
+package com.hakancivelek.anonymousClass;
 
 public class Test {
     public static void main(String[] args) {
