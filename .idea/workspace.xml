@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/PredicateComposition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/PredicateComposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/PredicateComposition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1739796512672" duration="440000" />
       <workItem from="1739796965057" duration="7963000" />
       <workItem from="1739871487544" duration="4957000" />
-      <workItem from="1739963882504" duration="10703000" />
+      <workItem from="1739963882504" duration="11356000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739992650359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="PredicateComposition and or practices">
+      <created>1739994728534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739994728534</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="lambda expressions practices" />
     <MESSAGE value="lambda in lambda practices" />
     <MESSAGE value="ComparatorComposition and FunctionComposition added. You used collator first time." />
-    <option name="LAST_COMMIT_MESSAGE" value="ComparatorComposition and FunctionComposition added. You used collator first time." />
+    <MESSAGE value="PredicateComposition and or practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="PredicateComposition and or practices" />
   </component>
 </project>
