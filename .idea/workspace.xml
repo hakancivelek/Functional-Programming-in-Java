@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExamples/clock/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExamples/clock/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExamples/twoNumbersCalculator/EvenNumberOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExamples/twoNumbersCalculator/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExamples/twoNumbersCalculator/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/builtinExpressions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/BiFunctionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/BuiltinExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/LambdaVariations1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/LambdaVariations1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,9 @@
       <updated>1739792657554</updated>
       <workItem from="1739792659208" duration="3632000" />
       <workItem from="1739796512672" duration="440000" />
-      <workItem from="1739796965057" duration="7184000" />
+      <workItem from="1739796965057" duration="7963000" />
+      <workItem from="1739871487544" duration="4957000" />
+      <workItem from="1739963882504" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739803295545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lambda function practices">
+      <created>1739821237577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739821237577</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="lambda function practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda function practices" />
   </component>
 </project>

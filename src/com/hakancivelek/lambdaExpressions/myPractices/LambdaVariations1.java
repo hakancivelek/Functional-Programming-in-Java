@@ -1,4 +1,4 @@
-package com.hakancivelek.lambdaExpressions;
+package com.hakancivelek.lambdaExpressions.myPractices;
 
 import java.util.Date;
 
