@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/ComparatorComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/FunctionComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/PredicateComposition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <workItem from="1739796512672" duration="440000" />
       <workItem from="1739796965057" duration="7963000" />
       <workItem from="1739871487544" duration="4957000" />
-      <workItem from="1739963882504" duration="9591000" />
+      <workItem from="1739963882504" duration="10703000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739970966435</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ComparatorComposition and FunctionComposition added. You used collator first time.">
+      <created>1739992650359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739992650359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +113,7 @@
     <MESSAGE value="lambda function practices" />
     <MESSAGE value="lambda expressions practices" />
     <MESSAGE value="lambda in lambda practices" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda in lambda practices" />
+    <MESSAGE value="ComparatorComposition and FunctionComposition added. You used collator first time." />
+    <option name="LAST_COMMIT_MESSAGE" value="ComparatorComposition and FunctionComposition added. You used collator first time." />
   </component>
 </project>
