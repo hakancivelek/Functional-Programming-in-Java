@@ -3,6 +3,7 @@ package com.hakancivelek.lambdaExpressions.myPractices;
 public class Person implements Comparable {
     String name;
     String surname;
+    Integer age;
 
     public String getName() {
         return name;
@@ -12,9 +13,10 @@ public class Person implements Comparable {
         return surname;
     }
 
-    public Person(String name, String surname) {
+    public Person(String name, String surname, Integer age) {
         this.name = name;
         this.surname = surname;
+        this.age = age;
     }
 
     @Override
@@ -26,5 +28,9 @@ public class Person implements Comparable {
     @Override
     public String toString() {
         return name + " " + surname;
+    }
+
+    public void printInfo() {
+        System.out.println(name + " " + surname + " " + age);
     }
 }

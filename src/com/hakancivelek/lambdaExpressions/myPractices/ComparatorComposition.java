@@ -11,16 +11,16 @@ public class ComparatorComposition {
 
         ArrayList<Person> people = new ArrayList<>();
 
-        people.add(new Person("Ali", "Yılmaz"));
-        people.add(new Person("Ali", "Aydın"));
-        people.add(new Person("Ayşe", "Kaya"));
-        people.add(new Person("Aysel", "Duman"));
-        people.add(new Person("Mehmet", "Demir"));
-        people.add(new Person("Fatma", "Çelik"));
-        people.add(new Person("Fatma", "Murat"));
-        people.add(new Person("Ahmet", "Şahin"));
-        people.add(new Person("Ahmet", "Zafer"));
-        people.add(new Person("Aytaç", "Ferah"));
+        people.add(new Person("Ali", "Yılmaz",27));
+        people.add(new Person("Ali", "Aydın",37));
+        people.add(new Person("Ayşe", "Kaya",12));
+        people.add(new Person("Aysel", "Duman",19));
+        people.add(new Person("Mehmet", "Demir",43));
+        people.add(new Person("Fatma", "Çelik",26));
+        people.add(new Person("Fatma", "Murat",19));
+        people.add(new Person("Ahmet", "Şahin",65));
+        people.add(new Person("Ahmet", "Zafer",27));
+        people.add(new Person("Aytaç", "Ferah",33));
 
         Collator collator = Collator.getInstance(new Locale("TR"));
 
