@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/IteratorPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/CollectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/IterablePractices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/IteratorPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/IteratorPractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
       <workItem from="1739871487544" duration="4957000" />
       <workItem from="1739963882504" duration="12286000" />
       <workItem from="1740060164571" duration="4632000" />
-      <workItem from="1740139122381" duration="1675000" />
+      <workItem from="1740139122381" duration="3323000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740064194871</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="IteratorPractices">
+      <created>1740140945304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740140945304</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +149,12 @@
     <MESSAGE value="PredicateComposition and or practices" />
     <MESSAGE value="updated lambda expressions and saw how it's worked using the sout" />
     <MESSAGE value="Method References practices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method References practices" />
+    <MESSAGE value="IteratorPractices" />
+    <option name="LAST_COMMIT_MESSAGE" value="IteratorPractices" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Functional_Programming_in_Java$IterablePractices.ic" NAME="IterablePractices Coverage Results" MODIFIED="1740142319063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hakancivelek.lambdaExpressions.myPractices.*</FILTER>
+    </SUITE>
   </component>
 </project>

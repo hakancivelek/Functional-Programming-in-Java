@@ -1,16 +1,11 @@
 package com.hakancivelek.lambdaExpressions.myPractices;
 
 import java.util.Collection;
-import java.util.HashSet;
 import java.util.Iterator;
 
 public class IteratorPractices {
     public static void main(String[] args) {
-        Collection<String> set = new HashSet<>();
-        set.add("one");
-        set.add("seven");
-        set.add("eleven");
-        set.add("twenty six");
+        Collection<String> set = CollectionUtil.getCollection();
 
         System.out.println("Before removing");
         System.out.println(set);
