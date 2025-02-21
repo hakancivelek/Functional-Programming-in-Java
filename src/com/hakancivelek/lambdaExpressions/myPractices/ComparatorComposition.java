@@ -11,21 +11,21 @@ public class ComparatorComposition {
 
         ArrayList<Person> people = new ArrayList<>();
 
-        people.add(new Person("Ali", "Yılmaz",27));
-        people.add(new Person("Ali", "Aydın",37));
-        people.add(new Person("Ayşe", "Kaya",12));
-        people.add(new Person("Aysel", "Duman",19));
-        people.add(new Person("Mehmet", "Demir",43));
-        people.add(new Person("Fatma", "Çelik",26));
-        people.add(new Person("Fatma", "Murat",19));
-        people.add(new Person("Ahmet", "Şahin",65));
-        people.add(new Person("Ahmet", "Zafer",27));
-        people.add(new Person("Aytaç", "Ferah",33));
+        people.add(new Person(1, "Ali", "Yılmaz", 27));
+        people.add(new Person(2, "Ali", "Aydın", 37));
+        people.add(new Person(3, "Ayşe", "Kaya", 12));
+        people.add(new Person(4, "Aysel", "Duman", 19));
+        people.add(new Person(5, "Mehmet", "Demir", 43));
+        people.add(new Person(6, "Fatma", "Çelik", 26));
+        people.add(new Person(7, "Fatma", "Murat", 19));
+        people.add(new Person(8, "Ahmet", "Şahin", 65));
+        people.add(new Person(9, "Ahmet", "Zafer", 27));
+        people.add(new Person(10, "Aytaç", "Ferah", 33));
 
         Collator collator = Collator.getInstance(new Locale("TR"));
 
-        Comparator<Person> nameComparator = (person1, person2) -> collator.compare(person1.getName(),person2.getName());
-        Comparator<Person> surnameComparator = (person1, person2) -> collator.compare(person1.getSurname(),person2.getSurname());
+        Comparator<Person> nameComparator = (person1, person2) -> collator.compare(person1.getName(), person2.getName());
+        Comparator<Person> surnameComparator = (person1, person2) -> collator.compare(person1.getSurname(), person2.getSurname());
 
         System.out.println("Before sorting");
         System.out.println(people);
