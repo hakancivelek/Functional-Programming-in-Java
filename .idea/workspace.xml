@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/set/SetPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/list/ListPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/vector/Practices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/CollectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/CollectionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/ComparatorComposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/ComparatorComposition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/MethodReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/MethodReferences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/set/SetPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/set/SetPractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,8 @@
       <workItem from="1739871487544" duration="4957000" />
       <workItem from="1739963882504" duration="12286000" />
       <workItem from="1740060164571" duration="4632000" />
-      <workItem from="1740139122381" duration="6404000" />
+      <workItem from="1740139122381" duration="11492000" />
+      <workItem from="1740216915729" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740142499018</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit for save">
+      <created>1740159480458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740159480458</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,9 +169,13 @@
     <MESSAGE value="Method References practices" />
     <MESSAGE value="IteratorPractices" />
     <MESSAGE value="IterablePractices" />
-    <option name="LAST_COMMIT_MESSAGE" value="IterablePractices" />
+    <MESSAGE value="commit for save" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for save" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Functional_Programming_in_Java$SetPractices.ic" NAME="SetPractices Coverage Results" MODIFIED="1740159866603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hakancivelek.lambdaExpressions.myPractices.set.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Functional_Programming_in_Java$IterablePractices.ic" NAME="IterablePractices Coverage Results" MODIFIED="1740142319063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.hakancivelek.lambdaExpressions.myPractices.*</FILTER>
     </SUITE>

@@ -24,7 +24,7 @@ public class MethodReferences {
 
         System.out.println();
 
-        Person hakan = new Person("Hakan", "Civelek", 32);
+        Person hakan = new Person(7, "Hakan", "Civelek", 32);
         Consumer<Person> printInfoPerson1 = book -> book.printInfo();
         printInfoPerson1.accept(hakan);
 
