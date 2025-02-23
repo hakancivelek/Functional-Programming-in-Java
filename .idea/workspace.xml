@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af806b-ebc4-489a-90d2-22b3a1bd9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/list/ListPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/vector/Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/map/MapPractices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/CollectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/CollectionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/MethodReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/MethodReferences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/set/SetPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/set/SetPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/vector/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/lambdaExpressions/myPractices/vector/SetPractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/_Yazilim/Akin Kaldiroglu Trainings/Java ile RESTful Web Servisi Gelistirme Temeller/myProjects/jdbc-rest-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +63,8 @@
       <workItem from="1739963882504" duration="12286000" />
       <workItem from="1740060164571" duration="4632000" />
       <workItem from="1740139122381" duration="11492000" />
-      <workItem from="1740216915729" duration="3324000" />
+      <workItem from="1740216915729" duration="11045000" />
+      <workItem from="1740254957632" duration="2036000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1739792838624</created>
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740159480458</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="list and vector practices">
+      <created>1740220483863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740220483863</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +175,8 @@
     <MESSAGE value="IteratorPractices" />
     <MESSAGE value="IterablePractices" />
     <MESSAGE value="commit for save" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for save" />
+    <MESSAGE value="list and vector practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="list and vector practices" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Functional_Programming_in_Java$SetPractices.ic" NAME="SetPractices Coverage Results" MODIFIED="1740159866603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

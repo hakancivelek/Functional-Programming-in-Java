@@ -2,7 +2,7 @@ package com.hakancivelek.lambdaExpressions.myPractices.vector;
 
 import java.util.*;
 
-public class Practices {
+public class SetPractices {
     public static void main(String[] args) {
         Vector<Integer> vector = new Vector<>();
         System.out.println(vector.capacity());
